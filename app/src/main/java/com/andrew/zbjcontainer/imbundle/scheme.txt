@@ -1,0 +1,4 @@
+聊天组件调用参数规则
+
+key  				value
+toUserid 			聊天方userid

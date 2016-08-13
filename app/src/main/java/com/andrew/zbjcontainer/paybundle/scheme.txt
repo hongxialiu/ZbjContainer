@@ -1,0 +1,4 @@
+支付组件调用参数规则
+
+key  				value
+orderId 			支付订单的id

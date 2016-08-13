@@ -1,0 +1,4 @@
+订单组件调用参数规则
+
+key  				value
+orderId 			订单id

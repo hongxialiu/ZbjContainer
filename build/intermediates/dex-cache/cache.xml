@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\ZbjContainer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="210d00caca64bfe7df8592273ffb1498d539c2e0">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_776cebe06cdfffc7639edf1e8adb8dc0b3ef8656\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\ZbjContainer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f36c2d65cbfd66353b92858956d0719e89ec9fc0">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_273cd510a7e560af39a05f91a7f7cc8edd04b965\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\ZbjContainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d4fa1e4a8fb270972e371f79418638c75aa04861\classes.dex" />
+    </item>
+    <item
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5129f8bde69b8e9f927fc544f89ecaf4d60c953a\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\ZbjContainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_87c1af19e3f08134e52135517215be2d77559b45\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\ZbjContainer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_924c24031bf3b0aa62cd150cea387e6618860614\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\ZbjContainer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a296854c0416f8b24214d3c9438c4b4e8114f962\classes.dex" />
+    </item>
+    <item
+        jar="D:\workspace\ZbjContainer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\workspace\ZbjContainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1be1893fb7a5376a769e9daacbde86efc1f21c4f\classes.dex" />
+    </item>
+
+</items>
